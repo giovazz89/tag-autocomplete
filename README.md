@@ -5,4 +5,4 @@ JQuery plugin to have a tag-like autocomplete (using @yourstring) in input text 
 
 <h3>usage</h3>
 
-<pre><code>$('field_selector').operation('ajax_url');</code></pre>
+<pre><code>$('field_selector').taggableText('ajax_url');</code></pre>
